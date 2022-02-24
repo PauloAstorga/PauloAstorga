@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Sobre mi
 - 📍 Chileno.
 - 🏢 Estudio desarrollo de software.
-- 🌱 Actualmente estoy estudiando NodeJS, Nuxt.js, Vue.js, Haskell y responsividad Web en conjunto a otras herramientas.
+- 🌱 Actualmente estoy estudiando NodeJS, Nuxt.js, Vue.js, Haskell y ReactJS.
 - 🤓 Cuento con domino en implementación de JEE2, JSP, JPA, Python, SQL (Admistración de OracleDB, MySQL, MS SQL, PLSQL Transactions), Dominio Web (HTML, CSS, JavaScript, JQuery, PHP, SCSS) Proximamente busco aprender sobre Angular, React, ReactNative, Flutter y Dart, Kotlin, y Kubernetes(Jenkins y ci/cd).
 - 📫 pauloastorga.docs@gmail.com
 - ⚡ Estoy buscando aprender cada vez más sobre el mundo del desarrollo de software y poder iniciar una carrera en este.
