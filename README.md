@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 ### Sobre mi
 - 📍 Chileno.
-- 🏢 Estudio desarrollo de software.
+- 🏢 Estudio desarrollo de software. (FullStack)
 - 🌱 Actualmente estoy estudiando NodeJS, Nuxt.js, Vue.js, Haskell y ReactJS.
-- 🤓 Cuento con domino en implementación de JEE2, JSP, JPA, Python, SQL (Admistración de OracleDB, MySQL, MS SQL, PLSQL Transactions), Dominio Web (HTML, CSS, JavaScript, JQuery, PHP, SCSS) Proximamente busco aprender sobre Angular, React, ReactNative, Flutter y Dart, Kotlin, y Kubernetes(Jenkins y ci/cd).
+- 🤓 Cuento con domino en implementación de JEE2, JSP, JPA, Python, SQL (Admistración de OracleDB, MySQL, MS SQL, PLSQL Transactions), Dominio Web (HTML, CSS, JavaScript, JQuery, PHP, SCSS) Proximamente busco aprender sobre Angular, React, ReactNative, Flutter y Dart, Kotlin, Docker y Kubernetes(Jenkins y ci/cd).
 - 📫 pauloastorga.docs@gmail.com
 - ⚡ Estoy buscando aprender cada vez más sobre el mundo del desarrollo de software y poder iniciar una carrera en este.
 
@@ -40,7 +40,15 @@ Here are some ideas to get you started:
 </p>
  
 ### 🔧 Lenguajes que manejo
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PauloAstorga&show_icons=true&hide=issues)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAstorga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Java (JakartaEE9, JSP, JSF, JPA, SpringBoot, Servlet, JavaBeans, Expression Language) ⭐⭐⭐
+- Javascript (JQuery, ReactJS, VueJS, NodeJS) ⭐⭐
+- PHP (CodeIgniter) ⭐⭐
+- Python (Flask, Django, Automatizacion) ⭐⭐
+- C# (.NET) ⭐
+<div style="display: flex; flex-direction: row;" align='center'>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=PauloAstorga&show_icons=true&hide=issues&theme=radical" /> 
+</div>
+ 
+<div style="display: flex; flex-direction: row;" align='center'>
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAstorga&layout=compact&theme=radical" /> 
+</div>
