@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 Actualmente estoy estudiando NodeJS, Nuxt.js, Vue.js, Haskell y ReactJS.
 - 🤓 Cuento con domino en implementación de JEE2, JSP, JPA, Python, SQL (Admistración de OracleDB, MySQL, MS SQL, PLSQL Transactions), Dominio Web (HTML, CSS, JavaScript, JQuery, PHP, SCSS) Proximamente busco aprender sobre Angular, React, ReactNative, Flutter y Dart, Kotlin, Docker y Kubernetes(Jenkins y ci/cd).
 - 📫 pauloastorga.docs@gmail.com
-- ⚡ Estoy buscando aprender cada vez más sobre el mundo del desarrollo de software y poder iniciar una carrera en este.
+- ⚡ Estoy buscando aprender cada vez más sobre el mundo del desarrollo de software y poder continuar una carrera en esto.
 
 <h3 align='center'>Contacto<h3>
   
@@ -40,11 +40,20 @@ Here are some ideas to get you started:
 </p>
  
 ### 🔧 Lenguajes que manejo
-- Java (JakartaEE9, JSP, JSF, JPA, SpringBoot, Servlet, JavaBeans, Expression Language) ⭐⭐⭐
+- Java (JakartaEE9, JSP, JSF, JPA, Java Spring, Servlet, JavaBeans, Expression Language, SpringBoot) ⭐⭐⭐
 - Javascript (JQuery, ReactJS, VueJS, NodeJS) ⭐⭐
-- PHP (CodeIgniter) ⭐⭐
+- PHP (CodeIgniter, Laravel) ⭐⭐
 - Python (Flask, Django, Automatizacion) ⭐⭐
-- C# (.NET) ⭐
+- C# (.NET framework 5, ASP.NET) ⭐
+
+### 🔧 Herramientas que manejo
+- Bases de Datos (MySQL, SQL Server, Oracle SQL, MongoDB) ⭐⭐⭐
+- SQL (MySQL, Datos no estructurados, PL-SQL, T-SQL) ⭐⭐⭐
+- Modelamiento (StarUML, Bizagi con BPMN, LucidChart) ⭐⭐⭐
+- Ofimática Office (Word, Excel, PowerPoint, Sharepoint) ⭐⭐
+- Sistemas Operativos (W10, W7, W Server 2012, W Server 2016, Ubuntu, Ubuntu Server, Debian, CentOS7) ⭐⭐
+
+
 <div style="display: flex; flex-direction: row;" align='center'>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=PauloAstorga&show_icons=true&hide=issues&theme=radical" /> 
 </div>
