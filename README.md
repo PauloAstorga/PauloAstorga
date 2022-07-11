@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 - Javascript (JQuery, ReactJS, VueJS, NodeJS) ⭐⭐
 - PHP (CodeIgniter, Laravel) ⭐⭐
 - Python (Flask, Django, Automatizacion) ⭐⭐
-- C# (.NET framework 5, ASP.NET) ⭐
+- C# (.NET framework 5, ASP.NET) ⭐⭐
 
 ### 🔧 Herramientas que manejo
 - Bases de Datos (MySQL, SQL Server, Oracle SQL, MongoDB) ⭐⭐⭐
 - SQL (MySQL, Datos no estructurados, PL-SQL, T-SQL) ⭐⭐⭐
-- Modelamiento (StarUML, Bizagi con BPMN, LucidChart) ⭐⭐⭐
+- Modelamiento (StarUML, BPMN, LucidChart) ⭐⭐⭐
 - Ofimática Office (Word, Excel, PowerPoint, Sharepoint) ⭐⭐
 - Sistemas Operativos (W10, W7, W Server 2012, W Server 2016, Ubuntu, Ubuntu Server, Debian, CentOS7) ⭐⭐
 
