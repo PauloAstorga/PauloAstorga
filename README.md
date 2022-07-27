@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 ### Sobre mi
 - 📍 Chileno.
-- 🏢 Estudio desarrollo de software. (FullStack)
-- 🌱 Actualmente estoy estudiando NodeJS, Nuxt.js, Vue.js, Haskell y ReactJS.
-- 🤓 Cuento con domino en implementación de JEE2, JSP, JPA, Python, SQL (Admistración de OracleDB, MySQL, MS SQL, PLSQL Transactions), Dominio Web (HTML, CSS, JavaScript, JQuery, PHP, SCSS) Proximamente busco aprender sobre Angular, React, ReactNative, Flutter y Dart, Kotlin, Docker y Kubernetes(Jenkins y ci/cd).
+- 🏢 Desarrollador de Software FullStack.
+- 🤓 Cuento con dominio en levantamiento e implementación de entornos J2EE utilizando Java (EJB, JPA, JSP) y Oracle SQL además de SQL Server. También cuento con conocimiento en desarrollo Backend con Spring Boot, Thymeleaf, Postman y Angular.
+- 🌱 Actualmente estoy estudiando sobre Arquitectura Hexagonal, Programación Funcional en Haskell, NodeJS y ReactJS, y finalmente sobre cultura DevOps en conjunto a herramientas como Docker y Kubernetes(Jenkins y CI/CD) para implementación automatizada en conjunto a pruebas con Selenium y QA con SOAPUI y JMeter.
 - 📫 pauloastorga.docs@gmail.com
-- ⚡ Estoy buscando aprender cada vez más sobre el mundo del desarrollo de software y poder continuar una carrera en esto.
+- ⚡ Busco desempeñarme como Java Backend developer.
 
 <h3 align='center'>Contacto<h3>
   
@@ -39,19 +39,19 @@ Here are some ideas to get you started:
   
 </p>
  
-### 🔧 Lenguajes que manejo
-- Java (JakartaEE9, JSP, JSF, JPA, Java Spring, Servlet, JavaBeans, Expression Language, SpringBoot) ⭐⭐⭐
+### 💾 Lenguajes que manejo
+- Java (JakartaEE9, JSP, JSF, JPA, Java Spring, Servlet, JavaBeans, Expression Language, Spring Boot, JUnit5) ⭐⭐⭐
 - Javascript (JQuery, ReactJS, VueJS, NodeJS) ⭐⭐
 - PHP (CodeIgniter, Laravel) ⭐⭐
-- Python (Flask, Django, Automatizacion) ⭐⭐
-- C# (.NET framework 5, ASP.NET) ⭐⭐
+- Python (Flask, Django, Selenium) ⭐⭐
+- C# (.NET framework 5.x, ASP.NET) ⭐⭐
 
-### 🔧 Herramientas que manejo
+### 🔨 Herramientas que manejo
 - Bases de Datos (MySQL, SQL Server, Oracle SQL, MongoDB) ⭐⭐⭐
-- SQL (MySQL, Datos no estructurados, PL-SQL, T-SQL) ⭐⭐⭐
+- SQL (MySQL, PL-SQL, T-SQL) y No-SQL (Datos no estructurados) ⭐⭐⭐
 - Modelamiento (StarUML, BPMN, LucidChart) ⭐⭐⭐
 - Ofimática Office (Word, Excel, PowerPoint, Sharepoint) ⭐⭐
-- Sistemas Operativos (W10, W7, W Server 2012, W Server 2016, Ubuntu, Ubuntu Server, Debian, CentOS7) ⭐⭐
+- Sistemas Operativos (W10, W7, W Server 2012, W Server 2016, Ubuntu, Ubuntu Server, Debian, CentOS7, Arch Linux) ⭐⭐
 
 
 <div style="display: flex; flex-direction: row;" align='center'>
