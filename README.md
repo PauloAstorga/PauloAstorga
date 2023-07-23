@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Sobre mi
-- 📍 Chileno.
-- 🏢 Desarrollador de Software FullStack.
-- 🤓 Cuento con dominio en levantamiento e implementación de entornos J2EE utilizando Java (EJB, JPA, JSP) y Oracle SQL además de SQL Server. También cuento con conocimiento en desarrollo Backend con Spring Boot, Thymeleaf, Postman y Angular.
-- 🌱 Actualmente estoy estudiando sobre Arquitectura Hexagonal, Programación Funcional en Haskell, NodeJS y ReactJS, y finalmente sobre cultura DevOps en conjunto a herramientas como Docker y Kubernetes(Jenkins y CI/CD) para implementación automatizada en conjunto a pruebas con Selenium y QA con SOAPUI y JMeter.
-- 📫 pauloastorga.docs@gmail.com
-- ⚡ Busco desempeñarme como Java Backend developer.
+- 📍 Chilean 🇨🇱.
+- 🏢 FullStack Software Developer.
+- 🤓 Experience working with Java, Angular, C# (.NET), Js, SQL & No-SQL.
+- 🌱 I'm currently learning about Hexagonal Architecture, Functional Programming in Haskell, getting a deeper knowledge in NodeJs, and also learning about DevOps using Docker, Kubernetes, Jenkins, and cloud with AWS and GCP.
+- 📫 dev.pastorga@gmail.com
+- ⚡ Java Backend Developer.
 
-<h3 align='center'>Contacto<h3>
+<h3 align='center'>Contact<h3>
   
 <p align='center'>
   
@@ -33,26 +33,45 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
   
-  <a href="https://www.linkedin.com/in/paulo-a-a9849b202/" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-astorgaduarte/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   
 </p>
  
-### 💾 Lenguajes que manejo
-- Java (JakartaEE9, JSP, JSF, JPA, Java Spring, Servlet, JavaBeans, Expression Language, Spring Boot, JUnit5) ⭐⭐⭐
-- Javascript (JQuery, ReactJS, VueJS, NodeJS) ⭐⭐
-- PHP (CodeIgniter, Laravel) ⭐⭐
-- Python (Flask, Django, Selenium) ⭐⭐
-- C# (.NET framework 5.x, ASP.NET) ⭐⭐
+### 💾 Programming Languages and their tools.
+- <b>Java</b>: ⭐⭐⭐
+  - jdk 6, 8, 11, 17, JPA & Hibernate, Maven, JakartaEE9, J2EE, JSP, JSF, Servlet, Spring (Spring Boot), Expression Language, JUnit5 & Mockito).
+- <b>NodeJs</b>: ⭐⭐
+  - ExpressJs, Nodemon, Node v16, 18, Socket.io, NestJs.
+- <b>Javascript</b>: ⭐⭐
+  - JQuery, ReactJS, VueJS, Angular.
+- <b>PHP</b>: ⭐⭐
+  - CodeIgniter, Laravel 
+- <b>Python</b>: ⭐⭐
+  - Flask, Django, Selenium 
+- <b>C#</b>: ⭐⭐⭐
+  - .NET framework 5.x, ASP.NET, Blazor 
 
-### 🔨 Herramientas que manejo
-- Bases de Datos (MySQL, SQL Server, Oracle SQL, MongoDB) ⭐⭐⭐
-- SQL (MySQL, PL-SQL, T-SQL) y No-SQL (Datos no estructurados) ⭐⭐⭐
-- Modelamiento (StarUML, BPMN, LucidChart) ⭐⭐⭐
-- Ofimática Office (Word, Excel, PowerPoint, Sharepoint) ⭐⭐
-- Sistemas Operativos (W10, W7, W Server 2012, W Server 2016, Ubuntu, Ubuntu Server, Debian, CentOS7, Arch Linux) ⭐⭐
-
+### 🔨 Database & Others.
+- <b>Frontend</b>: ⭐⭐
+  - Angular v14, JQuery, HTML & CSS, Tailwind CSS, Bootstrap.
+- <b>Databases</b>: ⭐⭐⭐
+  - MySQL, Microsoft SQL Server, Oracle SQL, PostgreSQL, MongoDB 
+- <b>SQL language</b>: ⭐⭐
+  - PL-SQL, T-SQL 
+- <b>Modeling and diagrams</b>: ⭐⭐⭐
+  - StarUML, BPMN, LucidChart, Figma 
+- <b>Microsoft Office</b>: ⭐⭐⭐
+  - Word, Excel, PowerPoint, Sharepoint 
+- <b>OS</b>: ⭐⭐
+  - W10, W7, W Server 2012, W Server 2016, Ubuntu, Ubuntu Server, Debian, CentOS7
+- <b>DevOps</b>: ⭐
+  - Docker, Jenkins, Kubernetes
+- <b>Cloud</b>: ⭐
+  - AWS, GCP.
+- <b>Others</b>: ⭐⭐⭐
+  - Git (GitHub, GitLab, Bitbucket), SOAP UI, JMeter, Selenium
 
 <div style="display: flex; flex-direction: row;" align='center'>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=PauloAstorga&show_icons=true&hide=issues&theme=radical" /> 
